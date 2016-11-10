@@ -1,0 +1,2 @@
+# MD Code 201 - Day 3
+I learned a little about while and for loops, specifically that I don't really know how they work. I got a lot of help from people today to try and beat my way through the assignment, with moderate success. Today sucked, honestly. I'm sure I will get used to it, but I still have to do my reading and it's late and I'm tired. Everything they said was right. I had to stop myself from freaking out today because I didn't know what the hell to do even after talking to instructors multiple times. Anyway. Going to do my reading.
