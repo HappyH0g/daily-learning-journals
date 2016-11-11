@@ -1,0 +1,2 @@
+#MD Code 201 - Day 4
+The pair coding was definitely more enjoyable than going solo. Two heads are better than one, especially when you know next to nothing about what you are doing. We were able to complete the assignment and fix the broken parts of our code from the day previous. I think everything is in good working order now. Well, I hope so. Yesterday was really emotionally difficult, while today was pretty relaxing. 
