@@ -1,0 +1,2 @@
+# MD-Code201-Day 5
+Day five seemed to go pretty well, until the last part of the lab. I had an ok time with getting git ready for the work and with the first few problems. Then when I got to the fourth problem I just couldn't figure it out. It took multiple people helping me for several hours. Finally got it done because the ta was nice to me, then tried to do the fifth problem at home. So much for that. Never figured it out. Gonna have to tur it in incorrect and get help in class. 
