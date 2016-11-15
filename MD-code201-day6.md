@@ -1,0 +1,2 @@
+# MD Code 201 - Day 6
+Day six was not as bad as I expected. I was able to make my way through the project fairly well, with lots of help from the TAs. It did take some time to wrap my head around DOM stuff, but it is starting to make more sense now that I used it some. I just need to spend the hours it's going to take to create the stuff for the other 3 objects, and troubleshoot each of them, including number 2. 
