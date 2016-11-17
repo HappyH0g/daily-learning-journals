@@ -1,0 +1,2 @@
+#MD Code 201 - Day 8
+The day went well overall. I learned about forms and submitted my code for review by the class. Aaron helped me fix a few things. After lunch we started working on adding forms where we could submit info to make a new store location and populate the table with the info. I really struggled with this part, and spent a good hour stuck without any idea of what to do. I got help from a few different people and finally managed to pull it off. But I'm not sure why it worked. It just did. 
